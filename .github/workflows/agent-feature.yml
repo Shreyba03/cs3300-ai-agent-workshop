@@ -1,6 +1,7 @@
 name: Autonomous AI Developer
 
 on:
+  workflow_dispatch:
   issues:
     types: [labeled]
 
